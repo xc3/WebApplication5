@@ -182,6 +182,17 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\OLTP\Category.cs" />
+    <Compile Include="Models\OLTP\City.cs" />
+    <Compile Include="Models\OLTP\Courier.cs" />
+    <Compile Include="Models\OLTP\Customer.cs" />
+    <Compile Include="Models\OLTP\OrderTime.cs" />
+    <Compile Include="Models\OLTP\Product.cs" />
+    <Compile Include="Models\OLTP\ProductCategory.cs" />
+    <Compile Include="Models\OLTP\ProductRating.cs" />
+    <Compile Include="Models\OLTP\Rating.cs" />
+    <Compile Include="Models\OLTP\Representative.cs" />
+    <Compile Include="Models\OLTP\Sale.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
